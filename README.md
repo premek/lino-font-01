@@ -11,3 +11,5 @@ Preview:
 Font coverage:
 - Only **A-Z** 
 - a-z are the same as A-Z
+
+License: Open Source / Public Domain - [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
